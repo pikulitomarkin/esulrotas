@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Esul Rotas App" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Torres de Transmissão - Linha 138kV Curitiba-Londrina</name>
+    <desc>Arquivo GPX com waypoints das torres de transmissão</desc>
+    <author>
+      <name>Esul Rotas</name>
+    </author>
+    <time>2025-08-04T10:00:00Z</time>
+  </metadata>
+  
+  <!-- Waypoint para Torre T001 -->
+  <wpt lat="-25.4284" lon="-49.2733">
+    <name>T001</name>
+    <desc>LT 138kV Curitiba-Londrina|0.5|Suspensão|Circuito 1|Torre próxima à subestação</desc>
+    <cmt>Torre de suspensão inicial da linha</cmt>
+    <sym>tower</sym>
+  </wpt>
+  
+  <!-- Waypoint para Torre T002 -->
+  <wpt lat="-25.4290" lon="-49.2720">
+    <name>T002</name>
+    <desc>LT 138kV Curitiba-Londrina|1.2|Ancoragem|Circuito 1|Torre de ângulo</desc>
+    <cmt>Torre de ancoragem com mudança de direção</cmt>
+    <sym>tower</sym>
+  </wpt>
+  
+  <!-- Waypoint para Torre T003 -->
+  <wpt lat="-25.4295" lon="-49.2710">
+    <name>T003</name>
+    <desc>LT 138kV Curitiba-Londrina|2.1|Suspensão|Circuito 1|</desc>
+    <cmt>Torre de suspensão padrão</cmt>
+    <sym>tower</sym>
+  </wpt>
+  
+  <!-- Waypoint para Torre T004 -->
+  <wpt lat="-25.4301" lon="-49.2695">
+    <name>T004</name>
+    <desc>LT 138kV Curitiba-Londrina|3.4|Suspensão|Circuito 1|Próxima à rodovia</desc>
+    <cmt>Torre próxima à rodovia BR-277</cmt>
+    <sym>tower</sym>
+  </wpt>
+  
+  <!-- Waypoint para Torre T005 -->
+  <wpt lat="-25.4308" lon="-49.2680">
+    <name>T005</name>
+    <desc>LT 138kV Curitiba-Londrina|4.8|Derivação|Circuito 1|Torre de derivação</desc>
+    <cmt>Torre com derivação para subestação</cmt>
+    <sym>tower</sym>
+  </wpt>
+  
+  <!-- Waypoint para Torre T006 -->
+  <wpt lat="-25.4315" lon="-49.2665">
+    <name>T006</name>
+    <desc>LT 138kV Curitiba-Londrina|6.2|Suspensão|Circuito 1|Torre em área rural</desc>
+    <cmt>Torre em área rural com acesso restrito</cmt>
+    <sym>tower</sym>
+  </wpt>
+  
+  <!-- Track opcional mostrando o percurso da linha -->
+  <trk>
+    <name>Linha de Transmissão 138kV</name>
+    <desc>Percurso da linha de transmissão</desc>
+    <trkseg>
+      <trkpt lat="-25.4284" lon="-49.2733">
+        <name>T001</name>
+      </trkpt>
+      <trkpt lat="-25.4290" lon="-49.2720">
+        <name>T002</name>
+      </trkpt>
+      <trkpt lat="-25.4295" lon="-49.2710">
+        <name>T003</name>
+      </trkpt>
+      <trkpt lat="-25.4301" lon="-49.2695">
+        <name>T004</name>
+      </trkpt>
+      <trkpt lat="-25.4308" lon="-49.2680">
+        <name>T005</name>
+      </trkpt>
+      <trkpt lat="-25.4315" lon="-49.2665">
+        <name>T006</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

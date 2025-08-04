@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Esul Rotas</string>
+    <string name="title_activity_maps">Mapa das Torres</string>
+    <string name="google_maps_key">YOUR_GOOGLE_MAPS_API_KEY_HERE</string>
+    
+    <!-- Tela principal -->
+    <string name="titulo_principal">Localização de Torres</string>
+    <string name="subtitulo">Digite o número da torre para ver o caminho</string>
+    <string name="hint_numero_torre">Número da Torre</string>
+    <string name="btn_buscar_torre">Buscar Torre</string>
+    <string name="btn_carregar_dados">Carregar GPX</string>
+    
+    <!-- Mensagens -->
+    <string name="erro_torre_nao_encontrada">Torre não encontrada</string>
+    <string name="erro_numero_invalido">Por favor, digite um número válido</string>
+    <string name="erro_permissao_localizacao">Permissão de localização necessária</string>
+    <string name="erro_carregamento_dados">Erro ao carregar dados do GPX</string>
+    <string name="sucesso_dados_carregados">Dados do GPX carregados com sucesso</string>
+    
+    <!-- Mapas -->
+    <string name="torre_marker_title">Torre %s</string>
+    <string name="posicao_atual">Sua posição</string>
+    <string name="btn_centralizar_mapa">Centralizar no Mapa</string>
+    <string name="btn_navegar">Navegar</string>
+    
+    <!-- Informações da torre -->
+    <string name="info_distancia">Distância: %.2f km</string>
+    <string name="info_linha">Linha: %s</string>
+    <string name="info_coordenadas">Lat: %.6f, Lng: %.6f</string>
+</resources>
